@@ -12,3 +12,9 @@ Running
 -------
 
     python app.py
+
+
+License
+-------
+
+MIT license / copyleft license. See LICENSE
